@@ -1,2 +1,7 @@
 # Gym_portfolio
-This repository is to show how i am building a gym portfolio,
+
+commit-1: This repository is to show how i am building a gym portfolio,
+
+commit-2: adding the plan which is in the x-mind file.
+
+commit-3: built an html file which contains navigation-bar and a home page according to the plan according the xmind-file.
